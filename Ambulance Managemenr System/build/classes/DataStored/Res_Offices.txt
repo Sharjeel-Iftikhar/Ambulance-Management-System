@@ -1,0 +1,13 @@
+Rescue=Rescue 1122 Office=H8G6+RHF, Mohalla Chiri Maran Walled City of Lahore, Lahore, Punjab 54000, Pakistan=res-1942=-=20=5=2=22=49
+Vehicle=Toyota=RBG5463=amb-01=2=0=0=1=Ambulance
+Vehicle=Bolan=RBG6543=amb-02=2=0=0=1=Ambulance
+Rescue=RESCUE STATION RS-0=H8G6+RHF, Ferozpur Rd, Block B2, Gulberg, Lahore, Punjab, Pakistan=res-1342=-=20=5=2=22=49
+Vehicle=Honda-125=HYR6543=amb-03=2=0=0=1=Bike
+Vehicle=Bolan=NJH4323=amb-04=2=0=0=1=Ambulance
+Rescue=Crs 21=Lahore Ring Rd, Harbanspura, Lahore, Punjab, Pakistan=res-1232=-=20=5=2=22=49
+Rescue=Rescue Coordination Center Lahore=Allama Iqbal International Airport, Airport Building, Cantt, Lahore, Punjab 54000, Pakistan=res-1232=-=20=5=2=22=49
+Rescue=RS-18 BEDIAN RESCUE 1122=Nawaz Sharif Interchange, Bedian Rd, Rehman Pura Lidher, Lahore, Punjab, Pakistan=res-9234=-=20=5=2=22=49
+Rescue=Rescue 1122 Office=J6GJ+6GM, Kot Abdul Malik, Lahore, Sheikhupura, Punjab, Pakistan=res-4566=-=20=5=2=22=49
+Rescue=Rescue 1122 Office=J7GQ+2QV, Shahdara Town, Shahdara, Lahore, Punjab, Pakistan=res-1345=-=20=5=2=22=49
+Rescue=Rescue 1122 Office=office#34 First Floor Hajweri Tower, Main Chauburji Chowk, Lahore, 54500, Pakistan=res-7565=-=20=5=2=22=49
+Rescue=Rescue 1122 Office=Service Rd, Kashmir Block Allama Iqbal Town, Lahore, Punjab 54000, Pakistan=res-1456=-=20=5=2=22=49

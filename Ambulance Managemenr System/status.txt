@@ -1,0 +1,21 @@
+Successfully Completed Task:
+	1- Login (Admin,Manager,Call Operator)
+	2- Apply for Job(Driver, EMT)
+	3- Profiles ( Admin, Manager,EMT,Call Operator)
+	4- CRUD on Manager
+	5- CRUD on Call Operator
+	6- CRUD on Vehicle
+	7- Allotment of Vehicle (EMT, Driver)
+	8- Recruitment of EMT & Driver
+	9- Parking of Vehicles
+	10- Map 
+	11- GUI Frames( Admin, Manager, Call Operator, EMT)
+
+UnSuccessful Task:
+	1- Reports (Admin, Manager)
+	2- Chat Box
+	3- Dispatch
+	
+Improvement Task:
+	1- In profiles change password( Just remembered :-) ).
+	2- In GUI Frames many improvement required.
